@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FoodieActivity!</string>
+    <string name="app_name">Foodie</string>
+    <string name="prefTitle">Preferences</string>
+</resources>
